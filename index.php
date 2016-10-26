@@ -1,8 +1,8 @@
-<?php
-
-?>
 <html>
 <head>
+<title>Тестовое задание, geo+php+mysql</title>
+<meta charset="utf-8">
+
 <link rel="stylesheet" href="/assets/leaflet/leaflet.css">
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
